@@ -20,3 +20,5 @@ O que não deveria estar neste repositório:
 - Faça um fork do repositório
 - Faça as modificações no seu fork, seguindo os padrões já estabelecidos
 - Abra um pull request e certifique-se de que ele satisfaz todas as condições citadas no template
+
+Caso tenha alguma dúvida ou sugestão, mas não sabe/não tem tempo de implementar, sinta-se livre para abrir uma issue.
